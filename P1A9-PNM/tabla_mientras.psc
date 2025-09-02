@@ -1,3 +1,5 @@
+// 00603543 Patricio Nelson Martínez
+// Ing. en Animacio Digital
 Algoritmo tabla_mientras
 	Definir i, num Como Entero
 	Escribir 'Ingresa un numero'
